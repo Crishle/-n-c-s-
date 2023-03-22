@@ -1,0 +1,111 @@
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Debug\DAO.dll
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Debug\DAO.pdb
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Debug\DTO.dll
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Debug\DTO.pdb
+D:\C#\Coffee Management\CoffeeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\C#\Coffee Management\CoffeeManagement\DAO\obj\Debug\DAO.dll
+D:\C#\Coffee Management\CoffeeManagement\DAO\obj\Debug\DAO.pdb
+D:\CofeeManagement\DAO\bin\Debug\DAO.dll
+D:\CofeeManagement\DAO\bin\Debug\DAO.pdb
+D:\CofeeManagement\DAO\bin\Debug\DTO.dll
+D:\CofeeManagement\DAO\bin\Debug\DTO.pdb
+D:\CofeeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\CofeeManagement\DAO\obj\Debug\DAO.dll
+D:\CofeeManagement\DAO\obj\Debug\DAO.pdb
+D:\C#\Coffee Management\CofeeManagement\DAO\bin\Debug\DAO.dll
+D:\C#\Coffee Management\CofeeManagement\DAO\bin\Debug\DAO.pdb
+D:\C#\Coffee Management\CofeeManagement\DAO\bin\Debug\DTO.dll
+D:\C#\Coffee Management\CofeeManagement\DAO\bin\Debug\DTO.pdb
+D:\C#\Coffee Management\CofeeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\C#\Coffee Management\CofeeManagement\DAO\obj\Debug\DAO.dll
+D:\C#\Coffee Management\CofeeManagement\DAO\obj\Debug\DAO.pdb
+C:\Users\Anh\Desktop\New folder\DAO\bin\Debug\DAO.dll
+C:\Users\Anh\Desktop\New folder\DAO\bin\Debug\DAO.pdb
+C:\Users\Anh\Desktop\New folder\DAO\bin\Debug\DTO.dll
+C:\Users\Anh\Desktop\New folder\DAO\bin\Debug\DTO.pdb
+C:\Users\Anh\Desktop\New folder\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Anh\Desktop\New folder\DAO\obj\Debug\DAO.dll
+C:\Users\Anh\Desktop\New folder\DAO\obj\Debug\DAO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\bin\Debug\DAO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\bin\Debug\DTO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\obj\Debug\DAO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\obj\Debug\DAO.pdb
+G:\CoffeManagement-master\DAO\bin\Debug\DAO.dll
+G:\CoffeManagement-master\DAO\bin\Debug\DAO.pdb
+G:\CoffeManagement-master\DAO\bin\Debug\DTO.dll
+G:\CoffeManagement-master\DAO\bin\Debug\DTO.pdb
+G:\CoffeManagement-master\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\CoffeManagement-master\DAO\obj\Debug\DAO.dll
+G:\CoffeManagement-master\DAO\obj\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\DAO\bin\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\DAO\bin\Debug\DTO.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\DAO\obj\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\DAO\obj\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\bin\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\bin\Debug\DTO.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\obj\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\obj\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\DAO\bin\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\DAO\bin\Debug\DTO.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\W10-PRO\Desktop\CoffeManagement\DAO\obj\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\DAO\obj\Debug\DAO.pdb
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\bin\Debug\DAO.dll
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\bin\Debug\DAO.pdb
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\bin\Debug\DTO.dll
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\bin\Debug\DTO.pdb
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\obj\Debug\DAO.dll
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\DAO\obj\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DTO.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\DAO\obj\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\DAO\obj\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DTO.dll
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Debug\DAO.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DAO.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DTO.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Debug\DAO.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\DAO\obj\Debug\DAO.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\DAO\bin\Debug\DAO.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\DAO\bin\Debug\DTO.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\DAO\obj\Debug\DAO.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\DAO\obj\Debug\DAO.pdb
+D:\12312301293\File code và CSDL\restaurantManagement\DAO\bin\Debug\DAO.dll
+D:\12312301293\File code và CSDL\restaurantManagement\DAO\bin\Debug\DAO.pdb
+D:\12312301293\File code và CSDL\restaurantManagement\DAO\bin\Debug\DTO.dll
+D:\12312301293\File code và CSDL\restaurantManagement\DAO\bin\Debug\DTO.pdb
+D:\12312301293\File code và CSDL\restaurantManagement\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\12312301293\File code và CSDL\restaurantManagement\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\12312301293\File code và CSDL\restaurantManagement\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\12312301293\File code và CSDL\restaurantManagement\DAO\obj\Debug\DAO.dll
+D:\12312301293\File code và CSDL\restaurantManagement\DAO\obj\Debug\DAO.pdb

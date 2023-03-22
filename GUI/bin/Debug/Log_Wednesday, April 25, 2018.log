@@ -1,0 +1,145 @@
+25-Apr-18 7:24:06 AM ## ----------admin log in ----------
+25-Apr-18 7:24:41 AM ## add new Table, ID = 31
+25-Apr-18 7:25:17 AM ## check new Bill, ID = 13, Total price = 294300
+25-Apr-18 7:25:47 AM ## ----------admin log out ----------
+25-Apr-18 7:25:48 AM ## ----------admin log in ----------
+25-Apr-18 7:27:56 AM ## ----------admin log out ----------
+25-Apr-18 7:28:32 AM ## ----------admin log in ----------
+25-Apr-18 7:29:15 AM ## ----------admin log out ----------
+25-Apr-18 7:37:01 AM ## ----------admin log in ----------
+25-Apr-18 7:37:16 AM ## merge Bàn 2 to Bàn 1
+25-Apr-18 7:37:25 AM ## ----------admin log in ----------
+25-Apr-18 7:37:55 AM ## ----------admin log out ----------
+25-Apr-18 7:39:37 AM ## ----------admin log in ----------
+25-Apr-18 7:40:02 AM ## ----------admin log out ----------
+25-Apr-18 7:43:15 AM ## ----------admin log in ----------
+25-Apr-18 7:43:31 AM ## merge Bàn 3 to Bàn 2
+25-Apr-18 7:43:43 AM ## check new Bill, ID = 2, Total price = 58000
+25-Apr-18 7:43:54 AM ## check new Bill, ID = 1, Total price = 95000
+25-Apr-18 7:45:33 AM ## add new Category: Trà sữa
+25-Apr-18 7:46:39 AM ## add new Food: Trà sữa truyền thống
+25-Apr-18 7:47:08 AM ## add new Food: Trà sữa Matcha
+25-Apr-18 7:47:54 AM ## add new Food: Capuchino
+25-Apr-18 7:49:43 AM ## add new Food: Trà sữa việt quất
+25-Apr-18 7:51:52 AM ## add new Food: Trà sữa chocolate
+25-Apr-18 7:52:20 AM ## add new Food: Bò viên chiên
+25-Apr-18 7:52:46 AM ## add new Food: Ốc nhồi chiên
+25-Apr-18 7:53:07 AM ## add new Food: Xúc xích chiên
+25-Apr-18 7:53:57 AM ## add new Food: Há cảo chiên
+25-Apr-18 7:55:06 AM ## add new Food: Bánh tráng nướng
+25-Apr-18 7:58:44 AM ## add new Food: Cà phê fin (đen)
+25-Apr-18 7:59:09 AM ## add new Food: Cà phê fin (sữa)
+25-Apr-18 7:59:26 AM ## add new Table, ID = 31
+25-Apr-18 7:59:30 AM ## add new Table, ID = 32
+25-Apr-18 7:59:35 AM ## add new Table, ID = 33
+25-Apr-18 7:59:39 AM ## add new Table, ID = 34
+25-Apr-18 7:59:43 AM ## add new Table, ID = 35
+25-Apr-18 7:59:59 AM ## update Table: Bàn 35 to Bàn 36
+25-Apr-18 8:00:18 AM ## update Table: Bàn 1 to Bàn 35
+25-Apr-18 8:01:42 AM ## check new Bill, ID = 4, Total price = 115200
+25-Apr-18 8:03:33 AM ## delete Account: staff
+25-Apr-18 8:04:50 AM ## add new Account: nhanh
+25-Apr-18 8:05:20 AM ## add new Account: anh
+25-Apr-18 8:05:56 AM ## add new Account: tan
+25-Apr-18 8:06:08 AM ## ----------admin log out ----------
+25-Apr-18 8:06:16 AM ## ----------nhanh log in ----------
+25-Apr-18 8:06:35 AM ## change account's information
+25-Apr-18 8:06:43 AM ## ----------nhanh log out ----------
+25-Apr-18 8:06:49 AM ## ----------nhanh log in ----------
+25-Apr-18 8:06:55 AM ## ----------nhanh log out ----------
+25-Apr-18 8:07:04 AM ## ----------anh log in ----------
+25-Apr-18 8:07:14 AM ## change account's information
+25-Apr-18 8:07:15 AM ## ----------anh log out ----------
+25-Apr-18 8:07:18 AM ## ----------anh log in ----------
+25-Apr-18 8:07:19 AM ## ----------anh log out ----------
+25-Apr-18 8:07:31 AM ## ----------tan log in ----------
+25-Apr-18 8:07:42 AM ## change account's information
+25-Apr-18 8:07:54 AM ## check new Bill, ID = 5, Total price = 147600
+25-Apr-18 8:08:02 AM ## ----------tan log out ----------
+25-Apr-18 8:09:52 AM ## ----------admin log in ----------
+25-Apr-18 8:12:55 AM ## check new Bill, ID = 8, Total price = 140000
+25-Apr-18 8:13:08 AM ## change Bàn 16 to Bàn 12
+25-Apr-18 8:13:26 AM ## check new Bill, ID = 7, Total price = 78000
+25-Apr-18 8:13:36 AM ## ----------admin log out ----------
+25-Apr-18 8:17:38 AM ## ----------admin log in ----------
+25-Apr-18 8:17:51 AM ## check new Bill, ID = 6, Total price = 131000
+25-Apr-18 8:18:56 AM ## ----------admin log out ----------
+25-Apr-18 8:19:40 AM ## ----------admin log in ----------
+25-Apr-18 8:20:03 AM ## check new Bill, ID = 6, Total price = 156000
+25-Apr-18 8:20:12 AM ## ----------admin log out ----------
+25-Apr-18 8:20:15 AM ## ----------admin log in ----------
+25-Apr-18 8:20:16 AM ## ----------admin log out ----------
+25-Apr-18 8:21:07 AM ## ----------admin log in ----------
+25-Apr-18 8:21:32 AM ## check new Bill, ID = 4, Total price = 55000
+25-Apr-18 8:21:39 AM ## ----------admin log out ----------
+25-Apr-18 8:21:58 AM ## ----------admin log in ----------
+25-Apr-18 8:22:09 AM ## add new Table, ID = 31
+25-Apr-18 8:22:25 AM ## add new Category: Trà sữa
+25-Apr-18 8:22:27 AM ## ----------admin log out ----------
+25-Apr-18 8:30:00 AM ## ----------admin log in ----------
+25-Apr-18 8:30:19 AM ## ----------admin log out ----------
+25-Apr-18 8:33:49 AM ## ----------admin log in ----------
+25-Apr-18 8:34:03 AM ## ----------admin log out ----------
+25-Apr-18 8:40:23 AM ## ----------admin log in ----------
+25-Apr-18 8:41:37 AM ## ----------admin log out ----------
+25-Apr-18 8:56:19 AM ## ----------admin log in ----------
+25-Apr-18 8:56:33 AM ## ----------admin log out ----------
+25-Apr-18 9:00:41 AM ## ----------admin log in ----------
+25-Apr-18 9:01:30 AM ## ----------admin log out ----------
+25-Apr-18 9:03:32 AM ## ----------admin log in ----------
+25-Apr-18 9:06:10 AM ## ----------admin log out ----------
+25-Apr-18 9:07:07 AM ## ----------admin log in ----------
+25-Apr-18 9:10:48 AM ## ----------admin log out ----------
+25-Apr-18 9:13:11 AM ## ----------admin log in ----------
+25-Apr-18 9:13:28 AM ## ----------admin log out ----------
+25-Apr-18 9:16:12 AM ## ----------admin log in ----------
+25-Apr-18 9:16:40 AM ## ----------admin log out ----------
+25-Apr-18 9:18:57 AM ## ----------admin log in ----------
+25-Apr-18 9:19:17 AM ## ----------admin log out ----------
+25-Apr-18 9:22:15 AM ## ----------admin log in ----------
+25-Apr-18 9:22:45 AM ## ----------admin log out ----------
+25-Apr-18 9:24:35 AM ## ----------admin log in ----------
+25-Apr-18 9:24:52 AM ## ----------admin log out ----------
+25-Apr-18 9:37:00 AM ## ----------admin log in ----------
+25-Apr-18 9:37:55 AM ## add new Table, ID = 31
+25-Apr-18 9:37:57 AM ## ----------admin log out ----------
+25-Apr-18 9:39:34 AM ## ----------admin log in ----------
+25-Apr-18 9:39:44 AM ## ----------admin log out ----------
+25-Apr-18 9:44:42 AM ## ----------admin log in ----------
+25-Apr-18 9:45:51 AM ## check new Bill, ID = 5, Total price = 111150
+25-Apr-18 9:45:58 AM ## check new Bill, ID = 4, Total price = 72200
+25-Apr-18 9:46:29 AM ## ----------admin log out ----------
+25-Apr-18 9:46:35 AM ## ----------nhanh log in ----------
+25-Apr-18 9:47:17 AM ## ----------nhanh log out ----------
+25-Apr-18 9:47:21 AM ## ----------tan log in ----------
+25-Apr-18 9:47:30 AM ## check new Bill, ID = 6, Total price = 134000
+25-Apr-18 9:47:39 AM ## ----------tan log out ----------
+25-Apr-18 2:14:11 PM ## ----------admin log in ----------
+25-Apr-18 2:36:56 PM ## add new Table, ID = 31
+25-Apr-18 2:37:01 PM ## add new Table, ID = 32
+25-Apr-18 2:37:08 PM ## add new Table, ID = 33
+25-Apr-18 2:37:13 PM ## add new Table, ID = 34
+25-Apr-18 2:37:19 PM ## add new Table, ID = 35
+25-Apr-18 2:49:19 PM ## merge Bàn 35 to Bàn 30
+25-Apr-18 2:49:39 PM ## ----------admin log in ----------
+25-Apr-18 2:50:06 PM ## merge Bàn 35 to Bàn 30
+25-Apr-18 2:50:16 PM ## check new Bill, ID = 7, Total price = 183000
+25-Apr-18 2:51:51 PM ## ----------admin log out ----------
+25-Apr-18 3:09:00 PM ## ----------admin log in ----------
+25-Apr-18 3:12:51 PM ## add new Table, ID = 36
+25-Apr-18 3:13:09 PM ## update Table: Bàn 1 to Bàn 37
+25-Apr-18 3:13:23 PM ## update Table: Bàn 1 to Bàn 36
+25-Apr-18 3:15:38 PM ## ----------admin log out ----------
+25-Apr-18 3:15:51 PM ## ----------nhanh log in ----------
+25-Apr-18 3:17:27 PM ## change Bàn 23 to Bàn 1
+25-Apr-18 3:17:51 PM ## change Bàn 23 to Bàn 1
+25-Apr-18 3:18:06 PM ## change Bàn 23 to Bàn 24
+25-Apr-18 3:18:27 PM ## change Bàn 24 to Bàn 21
+25-Apr-18 3:18:39 PM ## check new Bill, ID = 9, Total price = 93000
+25-Apr-18 3:18:58 PM ## ----------nhanh log out ----------
+25-Apr-18 3:29:38 PM ## ----------admin log in ----------
+25-Apr-18 3:38:24 PM ## ----------admin log out ----------
+25-Apr-18 9:03:18 PM ## ----------admin log in ----------
+25-Apr-18 9:04:16 PM ## check new Bill, ID = 11, Total price = 180500
+25-Apr-18 9:08:14 PM ## check new Bill, ID = 12, Total price = 55100
+25-Apr-18 9:08:20 PM ## ----------admin log out ----------

@@ -1,0 +1,49 @@
+01-May-18 8:41:13 AM ## ----------nhanh log in ----------
+01-May-18 8:41:29 AM ## ----------nhanh log out ----------
+01-May-18 8:41:42 AM ## ----------admin log in ----------
+01-May-18 8:45:00 AM ## add new Table, ID = 37
+01-May-18 8:45:19 AM ## update Table: Bàn 1 to Bàn 38
+01-May-18 8:45:39 AM ## delete Table, ID = 37
+01-May-18 8:47:58 AM ## change Bàn 33 to Bàn 20
+01-May-18 8:48:32 AM ## change Bàn 27 to Bàn 20
+01-May-18 8:49:24 AM ## check new Bill, ID = 39, Total price = 60300
+01-May-18 8:50:10 AM ## check new Bill, ID = 38, Total price = 100000
+01-May-18 8:54:47 AM ## add new Account: nhanh2
+01-May-18 8:54:53 AM ## ----------admin log out ----------
+01-May-18 8:55:04 AM ## ----------nhanh2 log in ----------
+01-May-18 8:55:18 AM ## change account's information
+01-May-18 8:55:20 AM ## ----------nhanh2 log out ----------
+01-May-18 8:55:27 AM ## ----------nhanh2 log in ----------
+01-May-18 8:56:16 AM ## ----------nhanh2 log out ----------
+01-May-18 9:11:49 AM ## ----------admin log in ----------
+01-May-18 9:12:08 AM ## set password for Account: nhanh2
+01-May-18 9:12:24 AM ## delete Account: nhanh2
+01-May-18 9:12:27 AM ## ----------admin log out ----------
+01-May-18 9:12:29 AM ## ----------admin log in ----------
+01-May-18 9:12:38 AM ## ----------admin log out ----------
+01-May-18 9:18:45 AM ## ----------admin log in ----------
+01-May-18 9:18:56 AM ## ----------admin log out ----------
+01-May-18 9:19:06 AM ## ----------nhanh log in ----------
+01-May-18 9:19:12 AM ## ----------nhanh log out ----------
+01-May-18 9:19:20 AM ## ----------admin log in ----------
+01-May-18 9:22:03 AM ## change Bàn 32 to Bàn 34
+01-May-18 9:22:39 AM ## change Bàn 34 to Bàn 13
+01-May-18 9:23:18 AM ## check new Bill, ID = 41, Total price = 65700
+01-May-18 9:23:34 AM ## check new Bill, ID = 40, Total price = 118000
+01-May-18 9:25:59 AM ## add new Food: Trà sữa trái cây
+01-May-18 9:39:00 AM ## ----------nhanh log in ----------
+01-May-18 9:39:09 AM ## ----------nhanh log out ----------
+01-May-18 9:39:17 AM ## ----------admin log in ----------
+01-May-18 9:41:56 AM ## change Bàn 23 to Bàn 2
+01-May-18 9:42:22 AM ## change Bàn 2 to Bàn 10
+01-May-18 9:43:02 AM ## check new Bill, ID = 42, Total price = 63000
+01-May-18 9:43:19 AM ## check new Bill, ID = 43, Total price = 118000
+01-May-18 9:45:07 AM ## add new Food: Trà sữa trái cây
+01-May-18 9:45:33 AM ## update Food: Name: Trà sữa trái cây -> Trà sữa trái cây, Category ID: 5 -> 5, Price: 20000 -> 25000
+01-May-18 9:47:05 AM ## add new Table, ID = 38
+01-May-18 9:48:01 AM ## ----------admin log out ----------
+01-May-18 9:48:04 AM ## ----------admin log out ----------
+01-May-18 9:48:10 AM ## ----------admin log out ----------
+01-May-18 9:48:26 AM ## ----------admin log in ----------
+01-May-18 9:50:04 AM ## add new Account: nhanh2
+01-May-18 9:52:23 AM ## ----------admin log out ----------

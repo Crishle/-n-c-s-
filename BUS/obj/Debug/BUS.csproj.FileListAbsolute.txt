@@ -1,0 +1,141 @@
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\BUS.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\BUS.pdb
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\DAO.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\DTO.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\DAO.pdb
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\DTO.pdb
+D:\C#\Coffee Management\CoffeeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\C#\Coffee Management\CoffeeManagement\BUS\obj\Debug\BUS.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\obj\Debug\BUS.pdb
+D:\CofeeManagement\BUS\bin\Debug\BUS.dll
+D:\CofeeManagement\BUS\bin\Debug\BUS.pdb
+D:\CofeeManagement\BUS\bin\Debug\DAO.dll
+D:\CofeeManagement\BUS\bin\Debug\DTO.dll
+D:\CofeeManagement\BUS\bin\Debug\DAO.pdb
+D:\CofeeManagement\BUS\bin\Debug\DTO.pdb
+D:\CofeeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\CofeeManagement\BUS\obj\Debug\BUS.dll
+D:\CofeeManagement\BUS\obj\Debug\BUS.pdb
+D:\C#\Coffee Management\CofeeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\C#\Coffee Management\CofeeManagement\BUS\obj\Debug\BUS.dll
+D:\C#\Coffee Management\CofeeManagement\BUS\obj\Debug\BUS.pdb
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\BUS.dll
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\BUS.pdb
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\DAO.dll
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\DTO.dll
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\DAO.pdb
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\BUS.dll
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\BUS.pdb
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\DAO.dll
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\DTO.dll
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\DAO.pdb
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\DTO.pdb
+C:\Users\Anh\Desktop\New folder\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Anh\Desktop\New folder\BUS\obj\Debug\BUS.dll
+C:\Users\Anh\Desktop\New folder\BUS\obj\Debug\BUS.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\BUS.dll
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\DAO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\DTO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\obj\Debug\BUS.dll
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\obj\Debug\BUS.pdb
+G:\CoffeManagement-master\BUS\bin\Debug\BUS.dll
+G:\CoffeManagement-master\BUS\bin\Debug\BUS.pdb
+G:\CoffeManagement-master\BUS\bin\Debug\DAO.dll
+G:\CoffeManagement-master\BUS\bin\Debug\DTO.dll
+G:\CoffeManagement-master\BUS\bin\Debug\DAO.pdb
+G:\CoffeManagement-master\BUS\bin\Debug\DTO.pdb
+G:\CoffeManagement-master\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\CoffeManagement-master\BUS\obj\Debug\BUS.dll
+G:\CoffeManagement-master\BUS\obj\Debug\BUS.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\BUS\bin\Debug\BUS.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\BUS\bin\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\BUS\bin\Debug\DTO.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\BUS\obj\Debug\BUS.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\CoffeManagement\BUS\obj\Debug\BUS.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\BUS.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\DTO.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\obj\Debug\BUS.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\obj\Debug\BUS.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\BUS\bin\Debug\BUS.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\BUS\bin\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\BUS\bin\Debug\DTO.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\W10-PRO\Desktop\CoffeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\W10-PRO\Desktop\CoffeManagement\BUS\obj\Debug\BUS.dll
+C:\Users\W10-PRO\Desktop\CoffeManagement\BUS\obj\Debug\BUS.pdb
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\BUS.dll
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\BUS.pdb
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\DAO.dll
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\DTO.dll
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\DAO.pdb
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\bin\Debug\DTO.pdb
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\obj\Debug\BUS.dll
+E:\Mon PT_C#\BT LỚN C# (QL Quán Cafe)\BT LỚN C# (QL Quán Cafe) 19.4.2018\Đã chỉnh sửa đường dẫn\CoffeManagement\BUS\obj\Debug\BUS.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\BUS\bin\Debug\BUS.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DTO.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\BUS\obj\Debug\BUS.dll
+C:\Users\W10-PRO\Desktop\BT LỚN C# (QL Quán Cafe)\Đã chỉnh sửa đường dẫn\File code và CSDL\CoffeeManagement\BUS\obj\Debug\BUS.pdb
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\BUS.dll
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DAO.dll
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DTO.dll
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Debug\BUS.dll
+C:\Users\W10-PRO\Desktop\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Debug\BUS.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\BUS.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DAO.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DTO.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Debug\BUS.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\CoffeeManagement\BUS\obj\Debug\BUS.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\BUS\bin\Debug\BUS.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\BUS\bin\Debug\DAO.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\BUS\bin\Debug\DTO.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\BUS\obj\Debug\BUS.dll
+C:\Users\Huy\Downloads\QL Quán Cafe (2)\QL Quán Cafe\File code và CSDL\restaurantManagement\BUS\obj\Debug\BUS.pdb
+D:\12312301293\File code và CSDL\restaurantManagement\BUS\bin\Debug\BUS.dll
+D:\12312301293\File code và CSDL\restaurantManagement\BUS\bin\Debug\BUS.pdb
+D:\12312301293\File code và CSDL\restaurantManagement\BUS\bin\Debug\DAO.dll
+D:\12312301293\File code và CSDL\restaurantManagement\BUS\bin\Debug\DTO.dll
+D:\12312301293\File code và CSDL\restaurantManagement\BUS\bin\Debug\DAO.pdb
+D:\12312301293\File code và CSDL\restaurantManagement\BUS\bin\Debug\DTO.pdb
+D:\12312301293\File code và CSDL\restaurantManagement\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\12312301293\File code và CSDL\restaurantManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\12312301293\File code và CSDL\restaurantManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\12312301293\File code và CSDL\restaurantManagement\BUS\obj\Debug\BUS.dll
+D:\12312301293\File code và CSDL\restaurantManagement\BUS\obj\Debug\BUS.pdb

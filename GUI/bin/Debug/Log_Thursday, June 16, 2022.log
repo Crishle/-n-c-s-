@@ -1,0 +1,17 @@
+6/16/2022 6:54:15 PM ## ----------admin log in ----------
+6/16/2022 6:54:46 PM ## add new Category: tra sua 
+6/16/2022 6:55:27 PM ## add new Food: tra sua truyen thong
+6/16/2022 6:55:39 PM ## delete Table, ID = 30
+6/16/2022 6:55:47 PM ## delete Table, ID = 29
+6/16/2022 6:56:43 PM ## delete Account: tan
+6/16/2022 6:56:49 PM ## delete Account: anh
+6/16/2022 6:56:54 PM ## delete Account: nhanh
+6/16/2022 6:56:58 PM ## ----------admin log out ----------
+6/16/2022 6:58:26 PM ## ----------admin log in ----------
+6/16/2022 6:58:57 PM ## add new Account: abc 
+6/16/2022 6:59:38 PM ## add new Food: ruou de 
+6/16/2022 6:59:53 PM ## delete Category: tra sua 
+6/16/2022 7:00:22 PM ## change Bàn 1 to Bàn 1
+6/16/2022 7:00:28 PM ## change Bàn 1 to Bàn 1
+6/16/2022 7:00:47 PM ## check new Bill, ID = 1, Total price = 39600
+6/16/2022 7:02:03 PM ## ----------admin log out ----------

@@ -1,0 +1,72 @@
+19-Mar-18 8:22:24 AM ## ----------admin log in ----------
+19-Mar-18 8:29:37 AM ## ----------admin log in ----------
+19-Mar-18 8:31:01 AM ## add new Table, ID = 32
+19-Mar-18 8:33:30 AM ## ----------admin log in ----------
+19-Mar-18 8:35:14 AM ## merge Bàn 30 to Bàn 31
+19-Mar-18 8:35:38 AM ## merge Bàn 30 to Bàn 31
+19-Mar-18 8:36:18 AM ## check new Bill, ID = 5, Total price = 83000
+19-Mar-18 8:37:46 AM ## ----------admin log in ----------
+19-Mar-18 8:37:59 AM ## delete Table, ID = 31
+19-Mar-18 8:38:06 AM ## delete Table, ID = 32
+19-Mar-18 8:39:11 AM ## ----------admin log in ----------
+19-Mar-18 8:40:18 AM ## ----------admin log in ----------
+19-Mar-18 8:41:00 AM ## set password for Account: admin
+19-Mar-18 8:41:38 AM ## ----------admin log out ----------
+19-Mar-18 8:41:47 AM ## ----------admin log in ----------
+19-Mar-18 8:42:19 AM ## change account's information
+19-Mar-18 8:42:21 AM ## ----------admin log out ----------
+19-Mar-18 8:42:27 AM ## ----------admin log in ----------
+19-Mar-18 8:55:35 AM ## add new Food: cafe đá xây
+19-Mar-18 8:57:13 AM ## ----------admin log in ----------
+19-Mar-18 8:59:15 AM ## ----------admin log out ----------
+19-Mar-18 8:59:21 AM ## ----------nhanh log in ----------
+19-Mar-18 8:59:40 AM ## change account's information
+19-Mar-18 9:08:24 AM ## ----------admin log in ----------
+19-Mar-18 9:14:54 AM ## ----------admin log in ----------
+19-Mar-18 9:20:15 AM ## ----------admin log in ----------
+19-Mar-18 9:21:07 AM ## ----------admin log out ----------
+19-Mar-18 9:22:14 AM ## ----------admin log in ----------
+19-Mar-18 9:31:56 AM ## ----------admin log in ----------
+19-Mar-18 9:33:10 AM ## check new Bill, ID = 8, Total price = 51000
+19-Mar-18 9:33:38 AM ## check new Bill, ID = 7, Total price = 41000
+19-Mar-18 9:39:43 AM ## check new Bill, ID = 9, Total price = 438000
+19-Mar-18 9:41:00 AM ## ----------admin log out ----------
+19-Mar-18 10:22:13 AM ## ----------admin log in ----------
+19-Mar-18 10:22:21 AM ## ----------admin log out ----------
+19-Mar-18 10:24:02 AM ## ----------admin log in ----------
+19-Mar-18 10:24:06 AM ## ----------admin log out ----------
+19-Mar-18 10:33:25 AM ## ----------admin log in ----------
+19-Mar-18 10:33:36 AM ## ----------admin log out ----------
+19-Mar-18 10:33:59 AM ## ----------admin log in ----------
+19-Mar-18 10:34:31 AM ## delete Account: nhanh
+19-Mar-18 10:35:35 AM ## add new Account: nhanh
+19-Mar-18 10:35:50 AM ## delete Account: staff
+19-Mar-18 10:36:35 AM ## add new Account: anh
+19-Mar-18 10:38:13 AM ## add new Account: tan
+19-Mar-18 10:40:33 AM ## add new Category: Trà sữa
+19-Mar-18 10:41:46 AM ## add new Food: Trà sữa truyền thống
+19-Mar-18 10:43:28 AM ## add new Food: capuchino
+19-Mar-18 10:44:04 AM ## add new Food: Trà sữa matcha
+19-Mar-18 10:44:49 AM ## add new Food: Trà sữa Socola
+19-Mar-18 10:46:02 AM ## add new Food: Macchiato
+19-Mar-18 10:49:38 AM ## check new Bill, ID = 11, Total price = 140000
+19-Mar-18 10:49:58 AM ## check new Bill, ID = 10, Total price = 110000
+19-Mar-18 10:55:49 AM ## ----------admin log out ----------
+19-Mar-18 10:57:22 AM ## ----------admin log in ----------
+19-Mar-18 11:00:18 AM ## ----------admin log in ----------
+19-Mar-18 11:00:36 AM ## delete Account: staff
+19-Mar-18 11:01:02 AM ## add new Account: nhanh
+19-Mar-18 11:01:25 AM ## add new Account: tan
+19-Mar-18 11:01:45 AM ## add new Account: anh
+19-Mar-18 11:02:45 AM ## add new Category: Trà sữa
+19-Mar-18 11:03:13 AM ## add new Food: Trà sữa truyền thống
+19-Mar-18 11:03:35 AM ## add new Food: Trà sữa Matcha
+19-Mar-18 11:03:58 AM ## add new Food: Trà sữa Machiato
+19-Mar-18 11:04:24 AM ## add new Food: Capuchino
+19-Mar-18 11:05:04 AM ## add new Food: Bò viên chiên
+19-Mar-18 11:05:36 AM ## add new Food: Ốc nhồi
+19-Mar-18 11:06:22 AM ## add new Food: Bánh gạo lắc phô mai
+19-Mar-18 11:07:25 AM ## add new Food: Khoai lắc (khoai tây - khoai lang - Khoai môn)
+19-Mar-18 11:11:03 AM ## ----------admin log out ----------
+19-Mar-18 11:11:44 AM ## ----------admin log in ----------
+19-Mar-18 11:11:57 AM ## ----------admin log out ----------
